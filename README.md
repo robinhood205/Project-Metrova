@@ -5,8 +5,8 @@
 ## 📸 実機デモ (Hardware Setup)
 
 <div align="center">
-  <img src="image/oneDriver.jpg" width="45%" alt="Hardware Setup 1">
-  <img src="image/twoDriver.jpg" width="45%" alt="Hardware Setup 2">
+  <img src="image/setup_overview1.jpg" width="45%" alt="Hardware Setup 1">
+  <img src="image/setup_overview2.jpg" width="45%" alt="Hardware Setup 2">
   <p><i>TWELITE CUE と Android 端末（OTG接続）による実機動作の様子</i></p>
 </div>
 
